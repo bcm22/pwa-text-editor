@@ -1,4 +1,3 @@
-
   # PWA Text Editor
 
   ![License](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -10,38 +9,24 @@
   
   I built this project to showcase my knowledge on how I can build an app that can run offline.
 
-  .
-
   I learned how I can use nodemon and other dependencies to create a text editor application.
 
   ## Table of Contents
   * [License](*license)
-
   * [Installation](#installation)
-  * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
   
-  My application is deployed to Heroku:.
+  My application is deployed to Heroku: https://bcm22-jate-5a6e859a0464.herokuapp.com
 
   ## License
  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-  
-  ## Usage
-
-  .
-
   ## Contributing
 
   Open to collaboration.
-
-  ## Tests
-
-  -.
 
   ## Questions
 
